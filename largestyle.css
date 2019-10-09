@@ -123,6 +123,9 @@ form>imput{
     font-size: 2vw;
 }
 
+.divfooter>a{
+    font-size: 1vw;
+}
 .divfooterdroit{
     justify-content: flex-end;
     flex-direction: row;
@@ -130,7 +133,7 @@ form>imput{
 }
 
 .corps>h2{
-    font-size: 5vw;
+    font-size: 3vw;
 }
 
 .corps {
@@ -182,7 +185,8 @@ form>imput{
 }
 
 .logoImgfooter{
-    height: 6vh;
+    height: 10vh;
+    padding: 0 0 1vh 0;
 }
 
 .logogithub{
