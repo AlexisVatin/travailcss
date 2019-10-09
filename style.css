@@ -144,8 +144,6 @@ form>imput{
 .corps {
     padding: 2.5% 1%;
 
-    height: 55vh;
-
     display: flex;
     flex-direction: column;
     align-items: center;
