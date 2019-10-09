@@ -119,10 +119,18 @@ form>imput{
     width: 33.33%;
 }
 
+.divfooter>h3{
+    font-size: 2vw;
+}
+
 .divfooterdroit{
     justify-content: flex-end;
     flex-direction: row;
 
+}
+
+.corps>h2{
+    font-size: 5vw;
 }
 
 .corps {
@@ -169,7 +177,7 @@ form>imput{
 }
 
 .logoImg {
-    height:auto;
+    height:90%;
     width: auto;
 }
 
