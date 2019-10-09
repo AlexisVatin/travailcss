@@ -15,8 +15,8 @@ function my_header($stylesheet = './style.css', $img = './freenote-logo.png') {
         <div class="headerLeftDiv">
             <img src="{$img}" alt="Free Note, un forum normaux avec des gens normal :)" class="logoImg">
         </div>
-        <div class="headerCenterDiv">
-        </div>
+<!--        <div class="headerCenterDiv">-->
+<!--        </div>-->
         <div class="headerRightDiv">
             <a class="sign" onclick="showmenu()"> Connexion </a>
             <a class="sign" onclick="showmenu2()"> Inscription </a>

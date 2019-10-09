@@ -57,7 +57,7 @@ h1, h2, h3, p, a, span, label, input {
     box-shadow: 0 0 1em black;
 
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-content: center;
 }
 
@@ -148,7 +148,7 @@ form>imput{
 
 .headerRightDiv {
     height: auto;
-    width : 25%;
+    width : 60%;
 
     display: flex;
     justify-content: space-evenly;
@@ -164,7 +164,7 @@ form>imput{
 
 .headerLeftDiv {
     height: auto;
-    width: 20%;
+    width: 40%;
     padding: 0.5vw;
 
     display: flex;
@@ -182,8 +182,7 @@ form>imput{
 }
 
 .logoImg {
-    height:auto;
-    width: auto;
+    height:70%;
 }
 
 .logoImgfooter{
