@@ -5,13 +5,13 @@ function showmenu() {
 
     if (divinsc.style.visibility == 'hidden') {
 
-        divcon.style.visibility = 'hidden';
-        divinsc.style.visibility = 'visible';
+        divcon.style.visibility = 'visible';
+        divinsc.style.visibility = 'hidden';
     }
     else if (divcon.style.visibility == 'hidden')
     {
-        divinsc.style.visibility = 'hidden';
-        divcon.style.visibility = 'visible';
+        divinsc.style.visibility = 'visible';
+        divcon.style.visibility = 'hidden';
     }
 
 }
