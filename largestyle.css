@@ -146,6 +146,24 @@ form>imput{
     align-items: center;
 }
 
+.presentation{
+
+
+    width: 66.66%;
+    border-radius: 1vh;
+    background: rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.presentation>p{
+
+    padding: 2vw;
+    font-size: 1.5vw;
+    text-align: justify;
+}
+
 .main{
     display: flex;
     flex-wrap: wrap;
