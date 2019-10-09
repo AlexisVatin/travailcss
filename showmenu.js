@@ -25,7 +25,7 @@ function showmenu2() {
 
         divinsc.style.visibility = 'hidden';
     }
-    else if (divinsc.style.visibility == 'hidden' |)
+    else if (divinsc.style.visibility == 'hidden')
     {
         divinsc.style.visibility = 'visible';
        // divcon.style.visibility = 'hidden';
