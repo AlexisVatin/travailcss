@@ -111,8 +111,13 @@ form>imput{
 
 }
 
-.divfooter>h3,a{
+.divfooter>h3{
     font-size: 3vw;
+    color: #101820;
+}
+
+.divfooter>a{
+    font-size: 2vw;
     color: #101820;
 }
 
