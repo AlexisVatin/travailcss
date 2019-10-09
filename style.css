@@ -17,7 +17,7 @@ a:hover {
 a{
     text-decoration: none;
     color: #101820;
-    font-size: 1vw;
+    font-size: 3vw;
     cursor: pointer;
 }
 
@@ -114,13 +114,7 @@ h1, h2, h3, p, a, span, label, input {
     visibility: hidden;
 
 }
-#divinscription>a{
-    font-size: 2vw;
-}
 
-#divconnexion>a{
-    font-size: 2vw;
-}
 
 form>imput{
     width: 100%;
