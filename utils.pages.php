@@ -19,8 +19,8 @@ function my_header($stylesheet = './style.css', $img = './freenote-logo.png') {
         <div class="headerCenterDiv">
         </div>
         <div class="headerRightDiv">
-            <a class="sign" onclick="showmenu()"> Connexion </a>
-            <a class="sign" onclick="showmenu()"> Inscription </a>
+            <a class="sign" onclick="showmenu()" style="visibility: hidden"> Connexion </a>
+            <a class="sign" onclick="showmenu()" style="visibility: hidden"> Inscription </a>
         </div>
     </header>
 EOT;
