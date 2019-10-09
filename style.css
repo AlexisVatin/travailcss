@@ -126,8 +126,8 @@ form>imput{
 }
 
 .corps {
-    height: 100%;
-    width: 46.95vw;
+    height: auto;
+    width: 80vw;
     padding: 2.5% 1%;
 
     display: flex;
