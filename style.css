@@ -111,6 +111,11 @@ form>imput{
 
 }
 
+.divfooter>h3{
+    font-size: 3vw;
+    color: #101820;
+}
+
 .divfooter{
     display: flex;
     flex-direction: column;
