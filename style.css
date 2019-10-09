@@ -79,7 +79,7 @@ h1, h2, h3, p, a, span, label, input {
     width: 70vw;
     height: 50vh;
     left: 15vw;
-    top: 15vw;
+    top: 15vh;
 
     background: #ffffff;
     border: #101820 solid 1px;
@@ -97,9 +97,9 @@ h1, h2, h3, p, a, span, label, input {
     position: absolute;
 
     width: 70vw;
-    height: 50vh;
+    height: 70vh;
     left: 15vw;
-    top: 15vw;
+    top: 15vh;
 
 
 
