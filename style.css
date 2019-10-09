@@ -112,12 +112,12 @@ form>imput{
 }
 
 .divfooter>h3{
-    font-size: 3vw;
+    font-size: 4vw;
     color: #101820;
 }
 
 .divfooter>a{
-    font-size: 2vw;
+    font-size: 2.5vw;
     color: #101820;
 }
 
@@ -155,9 +155,11 @@ form>imput{
     align-items: center;
 }
 
+
 .headerRightDiv>a {
     text-decoration: none;
-    font-size: 1.3vw;
+
+    font-size: 2.5vw;
 }
 
 .headerLeftDiv {
