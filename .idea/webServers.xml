@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="22b65be5-d208-481c-a7fb-280a868a443e" name="responsive" url="http://alexisvatin.alwaysdata.net">
+        <fileTransfer host="ssh-alexisvatin.alwaysdata.net" port="22" rootFolder="/home/alexisvatin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
