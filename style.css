@@ -233,3 +233,9 @@ form>imput{
 .separator {
     border: #101820 solid 0.1vw;
 }
+
+@media screen and (max-width: 700px) {
+.corps{
+    width: 46vw;
+}
+}
