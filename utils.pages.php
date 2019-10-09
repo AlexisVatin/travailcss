@@ -81,7 +81,7 @@ function my_footer() {
     echo <<<EOT
     <footer class="bottomFooter">
     <div class="divfooter">
-        <img src = "web/img/logogithub.png" alt="LogoGitHub" class="logogithub" title="Thomas RIPPOL" >
+        <img src = "/logogithub.png" alt="LogoGitHub" class="logogithub" title="Thomas RIPPOL" >
         <a href="https://github.com/Wowsnake"> Steffen ALVAREZ </a>
         <a href="https://github.com/ThomasRp"> Thomas RIPPOL </a>
         <a href="https://github.com/christophe-ruiz"> Christophe RUIZ </a>
@@ -91,12 +91,12 @@ function my_footer() {
     <div class="divfooter">
            
         <p> Copyright 2019 </p>
-        <img src="web/img/freenote-logo.png" alt="Free Note, un forum normaux avec des gens normal :)" class="logoImgfooter">
+        <img src="/freenote-logo.png" alt="Free Note, un forum normaux avec des gens normal :)" class="logoImgfooter">
     </div>
         
     <div class="divfooter divfooterdroit">
-        <a href="#"> <img src="web/img/help.png" alt="aide" title="Aide" class="help"> </a>
-        <a href="#"> <img src="web/img/flechehaut.png" alt="flecheverslehaut" title="Haut de la page" class="flechehaut"> </a>
+        <a href="#"> <img src="/help.png" alt="aide" title="Aide" class="help"> </a>
+        <a href="#"> <img src="/flechehaut.png" alt="flecheverslehaut" title="Haut de la page" class="flechehaut"> </a>
     </div>
     
     </footer>
