@@ -47,6 +47,8 @@ h1, h2, h3, p, a, span, label, input {
     background: #101820;
     border-radius: 1vw;
     border: 0.11vw solid transparent;
+    display: flex;
+    align-items: center;
 }
 
 .topHeader {
