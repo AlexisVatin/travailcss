@@ -30,6 +30,9 @@ h1, h2, h3, p, a, span, label, input {
     transition: 0s;
 }
 
+span, p {
+    font-size: 10vw;
+}
 .sign:hover {
     background: floralwhite;
     color: #101820;
@@ -126,8 +129,6 @@ form>imput{
 }
 
 .corps {
-    height: auto;
-    width: 80vw;
     padding: 2.5% 1%;
 
     display: flex;
