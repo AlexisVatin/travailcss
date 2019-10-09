@@ -146,6 +146,12 @@ form>imput{
     align-items: center;
 }
 
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
 .headerRightDiv {
     height: auto;
     width : 25%;

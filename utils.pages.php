@@ -27,6 +27,7 @@ EOT;
 }
 function mainView() {
     echo <<<EOT
+<main class="main">
 <nav class="corps">
         <h2> Les plus récents </h2>
         <article class="topic">
@@ -65,6 +66,7 @@ function mainView() {
         </div>
 
 </nav>
+</main>
 EOT;
 }
 function mostLiked(){
