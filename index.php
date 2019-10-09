@@ -4,7 +4,7 @@
     my_header(); ?>
 
 
-<div id="divconnexion">
+<div id="divconnexion" style="visibility: hidden">
     <h3> Connexion </h3><br>
     <form method="" id="form" action="">
         <label>Nom utilisateur :</label><br>
@@ -20,7 +20,7 @@
     </form>
 </div>
 
-<div id="divinscription">
+<div id="divinscription" style="visibility: hidden">
     <h3> Inscription </h3><br>
     <form method="" id="form" action="">
         <label>Nom utilisateur :</label><br>
