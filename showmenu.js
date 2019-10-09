@@ -8,7 +8,7 @@ function showmenu() {
         divcon.style.visibility = 'visible';
         divinsc.style.visibility = 'hidden';
     }
-    else
+    else if (divcon.style.visibility == 'hidden' || divcon.style.visibility == 'visible' )
     {
         divinsc.style.visibility = 'visible';
         divcon.style.visibility = 'hidden';
