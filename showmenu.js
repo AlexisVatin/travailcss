@@ -7,10 +7,11 @@ function showmenu() {
     }
     else if (divcon.style.visibility == 'hidden')
     {
-        divcon.style.visibility == 'visible';
-        divinsc.style.visibility == 'hidden';
+        divcon.style.visibility = 'visible';
+        divinsc.style.visibility = 'hidden';
     }
     else {
+        divcon.style.visibility = 'hidden'
         divinsc.style.visibility = 'hidden';
     }
 }
