@@ -153,7 +153,14 @@ form>imput{
 }
 
 .presentation{
+
     font-size: 2vw;
+    width: 66.66%;
+    border-radius: 1vh;
+    background: rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 
