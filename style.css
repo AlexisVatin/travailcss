@@ -111,7 +111,7 @@ form>imput{
 
 }
 
-.divfooter>h3{
+.divfooter>h3,a{
     font-size: 3vw;
     color: #101820;
 }
@@ -132,6 +132,8 @@ form>imput{
 
 .corps {
     padding: 2.5% 1%;
+
+    height: 65vh;
 
     display: flex;
     flex-direction: column;
