@@ -172,7 +172,7 @@ form>imput{
 
 .headerRightDiv {
     height: auto;
-    width : 25%;
+    width : 30%;
 
     display: flex;
     justify-content: space-evenly;
@@ -186,7 +186,7 @@ form>imput{
 
 .headerLeftDiv {
     height: auto;
-    width: 20%;
+    width: 30%;
     padding: 0.5vw;
 
     display: flex;
@@ -196,7 +196,7 @@ form>imput{
 
 .headerCenterDiv {
     height: auto;
-    width: 55%;
+    width: 40%;
 
     display: flex;
     justify-content: space-evenly;
