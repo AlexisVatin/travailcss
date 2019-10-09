@@ -6,7 +6,7 @@ function showmenu() {
     if (divcon.style.visibility == 'hidden') {
 
         divcon.style.visibility = 'visible';
-        divinsc.style.visibility = 'hidden';
+        // divinsc.style.visibility = 'hidden';
     }
     else if (divcon.style.visibility == 'visible' )
     {
@@ -28,7 +28,7 @@ function showmenu2() {
     else if (divinsc.style.visibility == 'hidden' |)
     {
         divinsc.style.visibility = 'visible';
-        divcon.style.visibility = 'hidden';
+       // divcon.style.visibility = 'hidden';
     }
 }
 
