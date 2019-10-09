@@ -30,9 +30,6 @@ h1, h2, h3, p, a, span, label, input {
     transition: 0s;
 }
 
-span, p {
-    font-size: 10vw;
-}
 .sign:hover {
     background: floralwhite;
     color: #101820;
@@ -194,7 +191,7 @@ form>imput{
 }
 
 .topic>span, .topic>p {
-    font-size: 1.25vw;
+    font-size: 3vw;
 }
 
 .topic {

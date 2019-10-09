@@ -90,7 +90,7 @@ function my_footer() {
     
     <div class="divfooter">
            
-        <p> Copyright 2019 </p>
+        <h3> Copyright 2019 </h3>
         <img src="/freenote-logo.png" alt="Free Note, un forum normaux avec des gens normal :)" class="logoImgfooter">
     </div>
         
