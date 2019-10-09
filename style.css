@@ -97,7 +97,7 @@ h1, h2, h3, p, a, span, label, input {
     position: absolute;
 
     width: 70vw;
-    height: 70vh;
+    height: 65vh;
     left: 15vw;
     top: 15vh;
 
@@ -113,6 +113,13 @@ h1, h2, h3, p, a, span, label, input {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     visibility: hidden;
 
+}
+#divinscription>a{
+    font-size: 2vw;
+}
+
+#divconnexion>a{
+    font-size: 2vw;
 }
 
 form>imput{
