@@ -78,7 +78,8 @@ h1, h2, h3, p, a, span, label, input {
 
     width: 70vw;
     height: 50vh;
-    left: 50%;
+    left: 15vw;
+    top: 15vw;
 
     background: #ffffff;
     border: #101820 solid 1px;
@@ -97,8 +98,12 @@ h1, h2, h3, p, a, span, label, input {
 
     width: 70vw;
     height: 50vh;
-    left: 50%;
+    left: 15vw;
+    top: 15vw;
 
+
+
+    background: #ffffff;
     border: #101820 solid 1px;
     border-radius: 2vw;
     display: flex;
