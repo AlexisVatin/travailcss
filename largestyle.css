@@ -125,6 +125,13 @@ input[type="text"]{
     height: 3vh;
 }
 
+input[type="Submit"]{
+    width: 60%;
+    height: 5vh;
+    margin-top: 1vh;
+    align-items: center;
+}
+
 #form {
     display: flex;
     flex-direction: column;
