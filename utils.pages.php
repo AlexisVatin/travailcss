@@ -8,7 +8,7 @@ function my_header($stylesheet = './style.css', $img = './freenote-logo.png') {
     <title>FreeNote</title>
     <link rel="stylesheet" href="{$stylesheet}">
     <link rel="stylesheet" media="screen and (min-width: 700px)" href="largestyle.css" type="text/css" />
-    <script type="text/javascript" src="js/showmenu.js"></script>
+    <script type="text/javascript" src="showmenu.js"></script>
     
 </head>
 <body>
@@ -19,8 +19,8 @@ function my_header($stylesheet = './style.css', $img = './freenote-logo.png') {
         <div class="headerCenterDiv">
         </div>
         <div class="headerRightDiv">
-            <a class="sign" onclick="showmenu()"> Connexion </a>
-            <a class="sign" onclick="showmenu2()"> Inscription </a>
+            <a class="sign" onclick="showmenu()" > Connexion </a>
+            <a class="sign" onclick="showmenu2()" > Inscription </a>
         </div>
     </header>
 EOT;

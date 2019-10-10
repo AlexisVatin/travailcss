@@ -3,7 +3,7 @@
     my_header(); ?>
 
 
-<div id="divconnexion">
+<div id="divconnexion" style="visibility: hidden">
     <h3> Connexion </h3><br>
     <form method="" id="form" action="">
         <label>Nom utilisateur :</label><br>
@@ -19,25 +19,20 @@
     </form>
 </div>
 
-<div id="divinscription">
+<div id="divinscription" style="visibility: hidden">
     <h3> Inscription </h3><br>
     <form method="" id="form" action="">
-        <label>Nom utilisateur :</label><br>
+        <label> Pseudo : </label><br>
         <input type="text" name="username">
         <br><br>
-        <label>Mot de passe :</label><br>
+        <label> Mot de passe : </label><br>
         <input type="password" name="password">
         <br><br>
-        <label>Vérification mot de passe :</label><br>
+        <label> Vérification mot de passe : </label><br>
         <input type="password" name="password">
         <br><br>
-        <label>Age</label><br>
-        <input type="password" name="password">
-        <br><br>
-        <label>Sexe</label><br>
-        <input type="password" name="password">
-        <br><br>
-        <a href=""> Mot de passe oublié ? </a>
+        <label> Adresse mail : </label><br>
+        <input type="text" name="password">
         <br><br>
         <input type="Submit" value="Validation">
 
