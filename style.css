@@ -124,13 +124,16 @@ input[type="text"]{
 }
 
 input[type="Submit"]{
-    width: 20%;
+    width: 60%;
     height: 5vh;
     margin-top: 1vh;
 }
 
 #form {
     width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
 }
 #form>label{
     font-size: 3vw;
