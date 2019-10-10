@@ -32,7 +32,7 @@
         <input type="password" name="password">
         <br><br>
         <label> Adresse mail : </label><br>
-        <input type="text" name="password">
+        <input type="text" name="mail">
         <br><br>
         <input type="Submit" value="Validation">
 
