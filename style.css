@@ -116,15 +116,18 @@ h1, h2, h3, p, a, span, label, input {
 
 }
 input[type="password"]{
-    width: 75%;
+    width: 90%;
     height: 3vh;
 }
 
 input[type="text"]{
-    width: 75%;
+    width: 90%;
     height: 3vh;
 }
 
+#form {
+    width: 80%;
+}
 #form>label{
     font-size: 3vw;
 }
