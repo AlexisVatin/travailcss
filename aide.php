@@ -30,6 +30,7 @@ if(isset($_POST['message'])){
         echo '<p>Votre message a bien été envoyé.</p>';
     }
 }
+//mon erreur
 ?>
 </body>
 </html>
