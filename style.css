@@ -115,11 +115,20 @@ h1, h2, h3, p, a, span, label, input {
     visibility: hidden;
 
 }
+input[type="password"]{
+    width: 75%;
+    height: 3vh;
+}
 
+input[type="text"]{
+    width: 75%;
+    height: 3vh;
+}
 
 #form>label{
-    size: 50vw;
+    font-size: 3vw;
 }
+
 
 .divfooter>h3{
     font-size: 4vw;
