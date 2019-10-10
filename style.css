@@ -116,12 +116,12 @@ h1, h2, h3, p, a, span, label, input {
 
 }
 input[type="password"]{
-    width: 60%;
+    width: 75%;
     height: 3vh;
 }
 
 input[type="text"]{
-    width: 60%;
+    width: 75%;
     height: 3vh;
 }
 
