@@ -123,6 +123,12 @@ input[type="text"]{
     height: 3vh;
 }
 
+input[type="Submit"]{
+    width: 20%;
+    height: 5vh;
+    margin-top: 1vh;
+}
+
 #form {
     width: 80%;
 }
