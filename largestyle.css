@@ -126,10 +126,13 @@ input[type="text"]{
 }
 
 #form {
+    display: flex;
+    flex-direction: column;
     width: 80%;
+    height: 35vh;
 }
 #form>label{
-    font-size: 3vw;
+    font-size: 1vw;
 }
 
 
