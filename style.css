@@ -116,7 +116,7 @@ h1, h2, h3, p, a, span, label, input {
 input[type="password"]{
     width: 90%;
     height: 3vh;
-    border-radius: 1vw;
+    border-radius: 0.5vw;
 }
 
 input[type="text"]{
