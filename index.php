@@ -42,4 +42,4 @@
 <?php
     mainView();
     my_footer();
-                    ?>
+?>
