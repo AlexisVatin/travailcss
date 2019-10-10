@@ -14,7 +14,7 @@ function my_header($stylesheet = './style.css', $img = './freenote-logo.png') {
 <body>
     <header class="topHeader">
         <div class="headerLeftDiv">
-            <a href="index.php"> <img src="{$img}" alt="Free Note, un forum normaux avec des gens normal :)" class="logoImg"></a>
+        <img src="{$img}" alt="Free Note, un forum normaux avec des gens normal :)" class="logoImg"></a>
         </div>
         <div class="headerCenterDiv">
         </div>
