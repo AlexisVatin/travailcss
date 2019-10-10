@@ -116,10 +116,15 @@ h1, h2, h3, p, a, span, label, input {
 
 }
 
+input{
+    width: 60%;
+    height: 1vh;
+}
 
 #form>label{
-    size: 50vw;
+    font-size: 3vw;
 }
+
 
 .divfooter>h3{
     font-size: 4vw;
