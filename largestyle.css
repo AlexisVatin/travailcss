@@ -180,7 +180,7 @@ input[type="Submit"]{
 
 .presentation{
 
-
+    height: 70%;
     width: 66.66%;
     border-radius: 1vh;
     background: rgba(0, 0, 0, 0.2);
