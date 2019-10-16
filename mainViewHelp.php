@@ -3,11 +3,11 @@
     <form class="formhelp">
 
       <p class="problème">
-        <input name="problème" type="text" class="problème" placeholder="Problème" />
+        <input name="problème" type="text" class="pform" placeholder="Problème" />
       </p>
 
       <p class="email">
-        <input name="email" type="text" class="email" placeholder="Email" />
+        <input name="email" type="text" class="pform" placeholder="Email" />
       </p>
 
       <p class="text">
