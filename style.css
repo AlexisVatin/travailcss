@@ -22,7 +22,7 @@ a{
 }
 
 a.logoImgHeader{
-    height: 10vh;
+    width:10vw;
 }
 
 a:visited{
