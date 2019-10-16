@@ -39,4 +39,6 @@
     </div>
 
 <?php
+    require_once 'mainViewHelp.php';
+    mainViewHelp();
     my_footer(); ?>
