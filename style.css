@@ -129,6 +129,12 @@ input[type="text"]{
     border-radius: 1vw;
 }
 
+input[type="submit"]{
+    width: 20vw;
+    height: 5vh;
+    border-radius: 1vw;
+}
+
 #form {
     width: 80%;
 }
