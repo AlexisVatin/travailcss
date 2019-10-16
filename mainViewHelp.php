@@ -1,6 +1,6 @@
 <div class="form-main">
     <div class="formdivhelp">
-    <form class="formhelp" id="formhelp">
+    <form class="formhelp">
 
       <p class="problème">
         <input name="problème" type="text" class="problème" placeholder="Problème" />

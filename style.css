@@ -187,6 +187,12 @@ input[type="text"]{
     width: 66.66vw;
 }
 
+.formhelp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
 
 .presentation{
 
