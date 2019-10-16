@@ -1,9 +1,5 @@
-<?php
-
-function mainViewHelp() {
-
-    <div id="form-main">
-  <div id="formdivhelp">
+<div id="form-main">
+    <div id="formdivhelp">
     <form class="form" id="formhelp">
 
       <p class="problème">
@@ -23,7 +19,7 @@ function mainViewHelp() {
         <input type="submit" value="SEND"/>
         <div class="ease"></div>
       </div>
+
     </form>
-  </div>
-    EOT;
-}
+    </div>
+</div>
