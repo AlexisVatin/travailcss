@@ -173,13 +173,14 @@ input[type="text"]{
 .form-main{
     display: flex;
     align-content: center;
-    justify-items: center;
+    justify-content: center;
 }
 
 .formdivhelp{
     display: flex;
     align-content: center;
     justify-items: center;
+    width: 66.66vw;
 }
 
 
