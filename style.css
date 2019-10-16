@@ -117,7 +117,17 @@ h1, h2, h3, p, a, span, label, input {
     visibility: hidden;
 
 }
+input[type="password"]{
+    width: 90%;
+    height: 3vh;
+    border-radius: 0.5vw;
+}
 
+input[type="text"]{
+    width: 90%;
+    height: 4vh;
+    border-radius: 1vw;
+}
 
 #form {
     width: 80%;
@@ -295,16 +305,4 @@ h1, h2, h3, p, a, span, label, input {
 
 .separator {
     border: #101820 solid 0.1vw;
-}
-
-input[type="password"]{
-    width: 90%;
-    height: 3vh;
-    border-radius: 0.5vw;
-}
-
-input[type="text"]{
-    width: 90%;
-    height: 3vh;
-    border-radius: 0.5vw;
 }
