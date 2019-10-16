@@ -1,23 +1,22 @@
-<div id="form-main">
-    <div id="formdivhelp">
-    <form class="form" id="formhelp">
+<div class="form-main">
+    <div class="formdivhelp">
+    <form class="formhelp" id="formhelp">
 
       <p class="problème">
-        <input name="problème" type="text" class="" placeholder="Problème" />
+        <input name="problème" type="text" class="problème" placeholder="Problème" />
       </p>
 
       <p class="email">
-        <input name="email" type="text" class="" placeholder="Email" />
+        <input name="email" type="text" class="email" placeholder="Email" />
       </p>
 
       <p class="text">
-        <textarea name="text" class="" id="comment" placeholder="Commentaire"></textarea>
+        <textarea name="text" class="commentaire" placeholder="Commentaire"></textarea>
       </p>
 
 
       <div class="submit">
         <input type="submit" value="SEND"/>
-        <div class="ease"></div>
       </div>
 
     </form>
