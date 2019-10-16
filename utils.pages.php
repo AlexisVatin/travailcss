@@ -69,6 +69,7 @@ function mainView() {
 </main>
 EOT;
 }
+
 function mostLiked(){
     echo <<<EOT
 <nav class="corps">
