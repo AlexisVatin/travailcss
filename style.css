@@ -19,6 +19,7 @@ a{
     color: #101820;
     font-size: 3vw;
     cursor: pointer;
+    overflow: hidden;
 }
 
 a:visited{
