@@ -21,6 +21,10 @@ a{
     cursor: pointer;
 }
 
+a>logoImgHeader{
+    height: 8vw;
+}
+
 a:visited{
     color: #101820;
 }
