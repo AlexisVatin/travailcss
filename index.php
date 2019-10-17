@@ -10,7 +10,7 @@
         <input type="text" class="inputform" name="username">
         <label>Mot de passe :</label>
         <input type="password" class="inputform" name="password">
-        <a href=""> Mot de passe oublié ? </a>
+        <a href="" class="mdpo"> Mot de passe oublié ? </a>
         <input type="Submit" class="boutonform" value="Validation">
 
     </form>

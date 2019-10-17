@@ -140,6 +140,10 @@ h1, h2, h3, p, a, span, label, input {
     margin: 1%;
 }
 
+.mdpo{
+    margin: 1vw;
+}
+
 .boutonform{
     width: 40%;
     height: 10%;
