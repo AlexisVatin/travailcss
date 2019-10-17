@@ -118,17 +118,6 @@ h1, h2, h3, p, a, span, label, input {
 
 }
 
-.pform>input{
-    width: 60vw;
-    height: 4vh;
-    border-radius: 1vw;
-}
-
-input[type="submit"]{
-    width: 25vw;
-    height: 5vh;
-    border-radius: 1vw;
-}
 
 #form {
     width: 80%;
@@ -195,18 +184,30 @@ input[type="submit"]{
     flex-direction: column;
 }
 
-.pform{
-    width: 50vw;
+.pformh{
+    width: 60vw;
     height: 4vh;
     border-radius: 2vw;
+    margin-top: 5vh;
 }
 
-.commentaire{
+.commentaireh{
     border-radius: 2vw;
     height: 10vh;
     width: 60vw;
     padding: 1vw;
+    margin-top: 5vh;
 }
+
+.boutonh{
+
+    width: 60vw;
+    height: 4vh;
+    border-radius: 2vw;
+    margin-top: 5vh;
+
+}
+
 
 .presentation{
 

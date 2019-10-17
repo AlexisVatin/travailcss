@@ -3,16 +3,16 @@
     <form class="formhelp" action="mail.php">
 
 
-        <input name="probleme" type="text" class="pform" placeholder="Probleme" />
+        <input name="probleme" type="text" class="formh" placeholder="Probleme" />
 
-        <input name="email" type="text" class="pform" placeholder="Email" />
+        <input name="email" type="text" class="formh" placeholder="Email" />
 
-        <input name="commentaire" type="text"  class="commentaire" placeholder="Commentaire"></input>
+        <input name="commentaire" type="text"  class="commentaireh" placeholder="Commentaire"></input>
 
 
 
       <div class="submit">
-        <input type="submit" value="SEND"/>
+        <input type="submit" class="boutonh" value="SEND"/>
       </div>
 
     </form>
