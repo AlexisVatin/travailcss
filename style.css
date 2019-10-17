@@ -129,6 +129,12 @@ input[type="text"]{
     border-radius: 1vw;
 }
 
+.pform>input{
+    width: 60vw;
+    height: 4vh;
+    border-radius: 1vw;
+}
+
 input[type="submit"]{
     width: 25vw;
     height: 5vh;

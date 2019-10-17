@@ -4,7 +4,7 @@
     $email = $_GET['email'];
     $commentaire = $_GET['commentaire'];
     $commentaire = $commentaire . PHP_EOL . 'De : ' . $email;
-    $to = 'support@cruiz.fr';
+    $to = 'thomas.rippol@etu.univ-amu.fr';
 
     mail($to,$probleme,$commentaire);
 
