@@ -118,13 +118,13 @@ h1, h2, h3, p, a, span, label, input {
 
 }
 input[type="password"]{
-    width: 30vw;
-    height: 3vh;
+    width: 45vw;
+    height: 4vh;
     border-radius: 0.5vw;
 }
 
 input[type="text"]{
-    width: 30vw;
+    width: 45vw;
     height: 4vh;
     border-radius: 1vw;
 }
