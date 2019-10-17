@@ -198,7 +198,6 @@ h1, h2, h3, p, a, span, label, input {
 
 .presentation{
 
-    height: 50vh;
     width: 66.66%;
     border-radius: 1vh;
     background: rgba(0, 0, 0, 0.2);
@@ -283,7 +282,6 @@ h1, h2, h3, p, a, span, label, input {
 }
 
 .topic {
-    height: 10vh;
     width: 66.66%;
     border-radius: 1vh;
     background: rgba(0, 0, 0, 0.2);
