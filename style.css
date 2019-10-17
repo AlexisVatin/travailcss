@@ -168,6 +168,7 @@ h1, h2, h3, p, a, span, label, input {
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 75vh;
 }
 
 .formdivhelp{
