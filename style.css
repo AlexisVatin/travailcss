@@ -120,29 +120,30 @@ h1, h2, h3, p, a, span, label, input {
 
 
 .formI {
-    width: 80%;
-    height: 90%;
+
     display: flex;
-    align-content: center;
+    align-items: center;
     flex-direction: column;
     justify-items: center;
+
 }
 
 
 .formC {
-    width: 80%;
-    height: 90%;
+
     display: flex;
-    align-content: center;
+    align-items: center;
     flex-direction: column;
     justify-items: center;
 }
 
 .inputform{
-    width: 20vw;
+    width: 40vw;
     height: 5vh;
     border-radius: 1vh;
 }
+
+.formC>la
 
 .boutonform{
     width: 20vw;
@@ -151,7 +152,7 @@ h1, h2, h3, p, a, span, label, input {
 }
 
 #form>label{
-    font-size: 3vw;
+    font-size: 5vw;
 }
 
 
