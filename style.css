@@ -118,19 +118,19 @@ h1, h2, h3, p, a, span, label, input {
 
 }
 input[type="password"]{
-    width: 90%;
+    width: 30vw;
     height: 3vh;
     border-radius: 0.5vw;
 }
 
 input[type="text"]{
-    width: 90%;
+    width: 30vw;
     height: 4vh;
     border-radius: 1vw;
 }
 
 input[type="submit"]{
-    width: 20vw;
+    width: 25vw;
     height: 5vh;
     border-radius: 1vw;
 }
