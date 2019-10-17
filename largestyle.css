@@ -120,29 +120,31 @@ h1, h2, h3, p, a, span, label, input {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
-input[type="password"]{
-    width: 90%;
-    height: 3vh;
-}
 
-input[type="text"]{
-    width: 90%;
-    height: 3vh;
-}
 
-input[type="Submit"]{
-    width: 60%;
-    height: 5vh;
-    margin-top: 1vh;
-    align-items: center;
-}
 
-#form {
+.formIC {
+
     display: flex;
+    align-items: center;
     flex-direction: column;
-    width: 80%;
-    height: 35vh;
+    justify-items: center;
 }
+
+.inputform{
+    width: 40vw;
+    height: 5vh;
+    border-radius: 1vh;
+    margin: 1vw;
+}
+
+.boutonform{
+    width: 40vw;
+    height: 5vh;
+    border-radius: 1vh;
+    margin: 1vw;
+}
+
 #form>label{
     font-size: 1vw;
 }
