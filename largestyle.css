@@ -156,6 +156,13 @@ h1, h2, h3, p, a, span, label, input {
     padding: 0;
 }
 
+.formh{
+    width: 60vw;
+    height: 4vh;
+    border-radius: 2vw;
+    margin-top: 5vh;
+}
+
 #form>label{
     font-size: 1vw;
 }
