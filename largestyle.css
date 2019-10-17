@@ -79,8 +79,8 @@ h1, h2, h3, p, a, span, label, input {
 #divconnexion{
     position: absolute;
 
-    width: 14vw;
-    height: 18vw;
+    width: 15vw;
+    height: 20vw;
     top: 13vh;
     right: 10vw;
     left: auto;
@@ -103,8 +103,8 @@ h1, h2, h3, p, a, span, label, input {
 #divinscription{
     position: absolute;
 
-    width: 17vw;
-    height: 28vw;
+    width: 18vw;
+    height: 30vw;
     top: 13vh;
     right: 4vw;
     left: auto;
@@ -130,6 +130,7 @@ h1, h2, h3, p, a, span, label, input {
     flex-direction: column;
     justify-items: center;
     width: 90%;
+    height: 90%;
 }
 
 .inputform{
