@@ -116,30 +116,9 @@ h1, h2, h3, p, a, span, label, input {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     visibility: hidden;
 
-}
-input[type="password"]{
-    width: 60vw;
-    height: 4vh;
-    border-radius: 0.5vw;
-}
 
-input[type="text"]{
-    width: 60vw;
-    height: 4vh;
-    border-radius: 1vw;
-}
 
-.pform>input{
-    width: 60vw;
-    height: 4vh;
-    border-radius: 1vw;
-}
 
-input[type="submit"]{
-    width: 25vw;
-    height: 5vh;
-    border-radius: 1vw;
-}
 
 #form {
     width: 80%;
@@ -206,17 +185,18 @@ input[type="submit"]{
     flex-direction: column;
 }
 
-.pform{
-    width: 50vw;
-    height: 4vh;
-    border-radius: 2vw;
-}
 
 .commentaire{
     border-radius: 2vw;
     height: 10vh;
     width: 60vw;
     padding: 1vw;
+}
+
+.pform{
+    width: 60vw;
+    height: 4vh;
+    border-radius: 2vw;
 }
 
 .presentation{
