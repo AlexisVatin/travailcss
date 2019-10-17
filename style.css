@@ -117,17 +117,6 @@ h1, h2, h3, p, a, span, label, input {
     visibility: hidden;
 
 }
-input[type="password"]{
-    width: 60vw;
-    height: 4vh;
-    border-radius: 0.5vw;
-}
-
-input[type="text"]{
-    width: 60vw;
-    height: 4vh;
-    border-radius: 1vw;
-}
 
 .pform>input{
     width: 60vw;
