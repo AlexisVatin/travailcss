@@ -1,9 +1,9 @@
 <div class="form-main">
     <div class="formdivhelp">
-    <form class="formhelp">
+    <form class="formhelp" action="mail.php">
 
       <p class="problème">
-        <input name="problème" type="text" class="pform" placeholder="Problème" />
+        <input name="probleme" type="text" class="pform" placeholder="Probleme" />
       </p>
 
       <p class="email">
@@ -11,7 +11,7 @@
       </p>
 
       <p class="text">
-        <textarea name="text" class="commentaire" placeholder="Commentaire"></textarea>
+        <textarea name="commentaire" class="commentaire" placeholder="Commentaire"></textarea>
       </p>
 
 
