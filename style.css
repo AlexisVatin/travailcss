@@ -118,13 +118,13 @@ h1, h2, h3, p, a, span, label, input {
 
 }
 input[type="password"]{
-    width: 45vw;
+    width: 60vw;
     height: 4vh;
     border-radius: 0.5vw;
 }
 
 input[type="text"]{
-    width: 45vw;
+    width: 60vw;
     height: 4vh;
     border-radius: 1vw;
 }
@@ -209,7 +209,7 @@ input[type="submit"]{
 .commentaire{
     border-radius: 2vw;
     height: 10vh;
-    width: 70vw;
+    width: 60vw;
     padding: 1vw;
 }
 
