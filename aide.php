@@ -4,7 +4,7 @@
 
     <div id="divconnexion" style="visibility: hidden">
         <h3> Connexion </h3><br>
-        <form method="" id="form" action="">
+        <form method="" id="form" class="formC" action="">
             <label>Nom utilisateur :</label><br>
             <input type="text" name="username">
             <br><br>
@@ -20,7 +20,7 @@
 
     <div id="divinscription" style="visibility: hidden">
         <h3> Inscription </h3><br>
-        <form method="" id="form" action="">
+        <form method="" id="form" class="formI" action="">
             <label> Pseudo : </label><br>
             <input type="text" name="username">
             <br><br>
