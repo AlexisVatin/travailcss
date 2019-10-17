@@ -184,7 +184,7 @@ h1, h2, h3, p, a, span, label, input {
     flex-direction: column;
 }
 
-.pformh{
+.formh{
     width: 60vw;
     height: 4vh;
     border-radius: 2vw;
