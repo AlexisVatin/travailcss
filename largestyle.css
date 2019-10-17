@@ -132,17 +132,17 @@ h1, h2, h3, p, a, span, label, input {
 }
 
 .inputform{
-    width: 15vw;
-    height: 5vh;
+    width: 80%;
+    height: 15%;
     border-radius: 1vh;
-    margin: 1vw;
+    margin: 1%;
 }
 
 .boutonform{
-    width: 15vw;
-    height: 5vh;
+    width: 80%;
+    height: 15%;
     border-radius: 1vh;
-    margin: 1vw;
+    margin: 1%;
 }
 
 #form>label{
