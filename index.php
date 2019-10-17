@@ -4,7 +4,7 @@
 
 
 <div id="divconnexion" style="visibility: hidden">
-    <h3> Connexion </h3>
+    <h3 class="titredivIC"> Connexion </h3>
     <form method="" id="form" class="formIC" action="">
         <label>Nom utilisateur :</label>
         <input type="text" class="inputform" name="username">
@@ -17,7 +17,7 @@
 </div>
 
 <div id="divinscription" style="visibility: hidden">
-    <h3> Inscription </h3>
+    <h3 class="titredivIC"> Inscription </h3>
     <form method="" id="form" class="formIC" action="">
         <label> Pseudo : </label>
         <input type="text" class="inputform" name="username">
