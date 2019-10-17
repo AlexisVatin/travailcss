@@ -141,18 +141,19 @@ h1, h2, h3, p, a, span, label, input {
     width: 40vw;
     height: 5vh;
     border-radius: 1vh;
+    margin: 1vw;
 }
 
-.formC>la
-
 .boutonform{
-    width: 20vw;
+    width: 40vw;
     height: 5vh;
     border-radius: 1vh;
+    margin: 1vw;
 }
 
 #form>label{
     font-size: 5vw;
+    margin: 1vw;
 }
 
 
